@@ -1,4 +1,4 @@
-Stolen from https://github.com/almir/docker-webhook added openssh to image
+Stolen from https://github.com/almir/docker-webhook added openssh & webhook 2.8.0 to image
 
 [Webhook](https://github.com/adnanh/webhook/) Dockerized
 =================
