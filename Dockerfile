@@ -15,7 +15,7 @@ RUN         curl -L --silent -o webhook.tar.gz https://github.com/adnanh/webhook
 FROM        alpine:3.11
 COPY        --from=build /usr/local/bin/webhook /usr/local/bin/webhook
 WORKDIR     /etc/webhook
-RUN         apk add openssh && \
+RUN         apk add openssh docker-cli && \
             rm -rf /var/cache/apk/*
 VOLUME      ["/etc/webhook"]
 EXPOSE      9000
