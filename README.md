@@ -1,4 +1,4 @@
-Stolen from https://github.com/almir/docker-webhook added openssh, Docker-cli, & jq to image
+Stolen from https://github.com/almir/docker-webhook added openssh, docker-compose, Docker-cli, & jq to image
 
 [Webhook](https://github.com/adnanh/webhook/) Dockerized
 =================
