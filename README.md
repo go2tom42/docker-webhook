@@ -1,4 +1,4 @@
-Stolen from https://github.com/almir/docker-webhook added openssh, docker-compose, Docker-cli, curl, sshpass, & jq to image
+Stolen from https://github.com/almir/docker-webhook added openssh, docker-compose, Docker-cli, curl, sshpass, PowerShell 7.5.1, & jq to image
 
 [Webhook](https://github.com/adnanh/webhook/) Dockerized
 =================
